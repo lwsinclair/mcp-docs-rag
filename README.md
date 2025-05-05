@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kazuph-mcp-docs-rag-badge.png)](https://mseep.ai/app/kazuph-mcp-docs-rag)
+
 # mcp-docs-rag MCP Server
 
 RAG (Retrieval-Augmented Generation) for documents in a local directory
